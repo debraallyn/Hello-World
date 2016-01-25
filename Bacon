@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Foible</title>
+    </head>
+    <body>
+        <h1>Francis Bacon</h1>
+        <img src="https://image.freepik.com/free-icon/muffin-decorated-with-a-chocolate-heart_318-82677.png" />
+        <p>A Haiku about</p>
+        <p>The artist <a href="https://en.wikipedia.org/wiki/Francis_Bacon_%28artist%29">Francis Bacon</a></p>
+        <p>Not the <a href="https://en.wikipedia.org/wiki/Francis_Bacon">other one</a></p>
+    </body>
+</html>
